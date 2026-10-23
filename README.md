@@ -65,14 +65,6 @@ With the report's current Shipping Mode filter applied, the dashboard shows appr
 
 Figures may change when slicers or filters are changed.
 
-## Screenshots
-
-### Sales Performance Dashboard
-![Sales Performance Dashboard](screenshots/Dashboard.png)
-
-### Order Details Page
-![Order Details Page](screenshots/Order details.png)
-
 ## Files to Include
 - `Superstore_Sales_Dashboard.pbix` — saved Power BI report
 - `Sample - Superstore.csv` — source dataset, if permitted by the assignment
