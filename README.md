@@ -68,10 +68,10 @@ Figures may change when slicers or filters are changed.
 ## Screenshots
 
 ### Sales Performance Dashboard
-![Sales Performance Dashboard](screenshots/dashboard.png)
+![Sales Performance Dashboard](screenshots/Dashboard.png)
 
 ### Order Details Page
-![Order Details Page](screenshots/order-details.png)
+![Order Details Page](screenshots/Order details.png)
 
 ## Files to Include
 - `Superstore_Sales_Dashboard.pbix` — saved Power BI report
