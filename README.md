@@ -65,7 +65,7 @@ With the report's current Shipping Mode filter applied, the dashboard shows appr
 
 Figures may change when slicers or filters are changed.
 
-## Files to Include
+## Files included
 - `Superstore_Sales_Dashboard.pbix` — saved Power BI report
 - `Sample - Superstore.csv` — source dataset, if permitted by the assignment
 - `README.md` — project documentation
