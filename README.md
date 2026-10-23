@@ -66,7 +66,6 @@ With the report's current Shipping Mode filter applied, the dashboard shows appr
 Figures may change when slicers or filters are changed.
 
 ## Screenshots
-Upload your screenshots into a folder named `screenshots` in this repository, using these filenames:
 
 ### Sales Performance Dashboard
 ![Sales Performance Dashboard](screenshots/dashboard.png)
